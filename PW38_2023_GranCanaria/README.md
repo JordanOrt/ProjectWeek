@@ -74,6 +74,9 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### IGT and Low cost
 [Training system for US-guided lung interventions](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem)
 
+### Electrophysiology
+[Electrophysiological biosignals in 3D Slicer: a case of EMG to control 3D models](https://github.com/JordanOrt/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Electrophysiological_biosignals)
+   
 ### Segmentation/Classification
 [Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
 
